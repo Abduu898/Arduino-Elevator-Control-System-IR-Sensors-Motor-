@@ -54,8 +54,5 @@ When a button is pressed:
 
 This is a learning project and an early prototype. Improvements and refactoring are planned.
 
-## 📷 Demo
-
-(Add images or videos here)
 
 ---
